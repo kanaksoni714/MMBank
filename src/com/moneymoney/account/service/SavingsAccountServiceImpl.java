@@ -94,16 +94,11 @@ public class SavingsAccountServiceImpl implements SavingsAccountService {
 
 	@Override
 	public SavingsAccount getAccountByName(int accountHolderName)throws ClassNotFoundException, SQLException,AccountNotFoundException {
-		// TODO Auto-generated method stub
 		return null;
 	}
 
-//	0
-	
-
 	@Override
 	public SavingsAccount updateAccount(SavingsAccount account) {
-		// TODO Auto-generated method stub
 		return null;
 
 	}
